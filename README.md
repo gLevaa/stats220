@@ -1,5 +1,5 @@
 # STATS220
-Demo repository for markdown assessment as part of STATS220 at UOA.
+A repository for assessment one as part of STATS220 at UOA.
 
 ## Part A
 For Part A, we are required to;
